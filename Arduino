@@ -5,9 +5,6 @@
 const char* ssid ="Nombre de la red 2.4 GHZ";
 const char* password ="Password";
 
-int t;
-int s;
-
 int TMP = 0;
 float temperatura=0;
 int SENSOR = D2; 
